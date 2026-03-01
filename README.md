@@ -80,3 +80,40 @@ chart_box.gd → Chart rendering
 scripts/ → Core simulation logic
 
 project.godot → Godot project configuration
+
+
+---
+
+## How To Run
+
+### Run in Godot
+
+1. Install Godot 4.x
+2. Clone this repository
+3. Open the project in Godot
+4. Run `Main.tscn`
+
+### Play in Browser
+
+Use the itch.io web version:
+
+https://anishko.itch.io/token
+
+---
+
+## Future Improvements
+
+Possible extensions to the simulation include:
+
+- Real-time chart visualization
+- Market sentiment modeling
+- Multi-asset portfolio simulation
+- More advanced pricing algorithms
+- Data export for analysis
+
+---
+
+## Author
+
+Anish Konduri
+2026
