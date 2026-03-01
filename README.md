@@ -65,3 +65,18 @@ The simulation uses the asset's statistics to influence price movement, allowing
 - GDScript
 - Web export (HTML5 / WebAssembly)
 
+---
+
+## Project Structure
+
+Main.tscn → Main UI scene
+main.gd → Core application logic
+
+forge_panel.gd → Asset creation system
+refine_panel.gd → Asset refinement logic
+backtest_panel.gd → Backtesting simulation
+chart_box.gd → Chart rendering
+
+scripts/ → Core simulation logic
+
+project.godot → Godot project configuration
