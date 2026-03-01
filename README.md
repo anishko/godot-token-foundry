@@ -65,6 +65,3 @@ The simulation uses the asset's statistics to influence price movement, allowing
 - GDScript
 - Web export (HTML5 / WebAssembly)
 
----
-
-## Project Structure
